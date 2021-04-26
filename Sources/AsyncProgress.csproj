@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>Alexandre CODOUL aka Daerlnaxe</Authors>
+    <Company>Daerlnaxe Software</Company>
+    <Copyright>Copyright ©  2018-2038 Daerlnaxe Software</Copyright>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <PackageReleaseNotes>Changes for Maw that implement an objet to signal progress instead of inherit</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="I_ASBase2.cs" />
+    <Compile Remove="ToImp\A_ASBaseD.cs" />
+    <Compile Remove="Tools\Maou.cs" />
+    <Compile Remove="Tools\MaouEvo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="I_ASBase2.cs" />
+    <None Include="ToImp\A_ASBaseD.cs" />
+    <None Include="Tools\Maou.cs" />
+    <None Include="Tools\MaouEvo.cs" />
+  </ItemGroup>
+
+</Project>
