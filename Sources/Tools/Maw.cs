@@ -9,7 +9,7 @@ namespace AsyncProgress.Tools
      * Maw is the answer because Maw is Maw, get a Maw or become a Maw.
      * All-in-One to use method and send progress
     */
-    public class Maw<T> : I_ASBase where T : I_RProgressD, I_TProgressD, new()
+    public class Maw<T> : I_ASBase where T : I_RProgress, I_TProgress, new()
     {
         public T Parler { get; set; } = new T();
 

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programmation\\Git-Hub\\AsyncProgress\\AsyncProgress.csproj",
+      "projectUniqueName": "E:\\Programmation\\Git-Hub\\AsyncProgress\\Sources\\AsyncProgress.csproj",
       "projectName": "AsyncProgress",
-      "projectPath": "E:\\Programmation\\Git-Hub\\AsyncProgress\\AsyncProgress.csproj",
+      "projectPath": "E:\\Programmation\\Git-Hub\\AsyncProgress\\Sources\\AsyncProgress.csproj",
       "packagesPath": "C:\\Users\\daerlnaxe\\.nuget\\packages\\",
-      "outputPath": "E:\\Programmation\\Git-Hub\\AsyncProgress\\obj\\",
+      "outputPath": "E:\\Programmation\\Git-Hub\\AsyncProgress\\Sources\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

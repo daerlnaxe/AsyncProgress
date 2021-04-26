@@ -6,3 +6,12 @@ E:\Programmation\Git-Hub\AsyncProgress\obj\Debug\netstandard2.1\AsyncProgress.As
 E:\Programmation\Git-Hub\AsyncProgress\obj\Debug\netstandard2.1\AsyncProgress.csproj.CoreCompileInputs.cache
 E:\Programmation\Git-Hub\AsyncProgress\obj\Debug\netstandard2.1\AsyncProgress.dll
 E:\Programmation\Git-Hub\AsyncProgress\obj\Debug\netstandard2.1\AsyncProgress.pdb
+E:\Programmation\Git-Hub\AsyncProgress\Sources\bin\Debug\netstandard2.1\AsyncProgress.deps.json
+E:\Programmation\Git-Hub\AsyncProgress\Sources\bin\Debug\netstandard2.1\AsyncProgress.dll
+E:\Programmation\Git-Hub\AsyncProgress\Sources\bin\Debug\netstandard2.1\AsyncProgress.pdb
+E:\Programmation\Git-Hub\AsyncProgress\Sources\obj\Debug\netstandard2.1\AsyncProgress.csprojAssemblyReference.cache
+E:\Programmation\Git-Hub\AsyncProgress\Sources\obj\Debug\netstandard2.1\AsyncProgress.AssemblyInfoInputs.cache
+E:\Programmation\Git-Hub\AsyncProgress\Sources\obj\Debug\netstandard2.1\AsyncProgress.AssemblyInfo.cs
+E:\Programmation\Git-Hub\AsyncProgress\Sources\obj\Debug\netstandard2.1\AsyncProgress.csproj.CoreCompileInputs.cache
+E:\Programmation\Git-Hub\AsyncProgress\Sources\obj\Debug\netstandard2.1\AsyncProgress.dll
+E:\Programmation\Git-Hub\AsyncProgress\Sources\obj\Debug\netstandard2.1\AsyncProgress.pdb
