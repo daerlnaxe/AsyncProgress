@@ -30,18 +30,19 @@ namespace AsyncProgress.Basix
             {
                 if (_WriteToEnd)
                 {
-                    Debug.WriteLine($"[{nameof(_Status)}] : {value}");
                     _Status = value;
+                    Debug.WriteLine($"[{nameof(_Status)}] : {_Status}");
 
                 }
                 else
                 {
-                    Debug.Write(value);
                     _Status += value;
+                    Debug.Write(_Status);
                 }
+
                 OnPropertyChanged();
             }
-        }  
+        }
 
 
 

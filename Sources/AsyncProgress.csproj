@@ -1,12 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <Authors>Alexandre CODOUL aka Daerlnaxe</Authors>
     <Company>Daerlnaxe Software</Company>
     <Copyright>Copyright ©  2018-2038 Daerlnaxe Software</Copyright>
     <AssemblyVersion>1.0.0.1</AssemblyVersion>
     <PackageReleaseNotes>Changes for Maw that implement an objet to signal progress instead of inherit</PackageReleaseNotes>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+    <Configurations>Debug;Release;Debug x86;Release x86</Configurations>
   </PropertyGroup>
 
   <ItemGroup>

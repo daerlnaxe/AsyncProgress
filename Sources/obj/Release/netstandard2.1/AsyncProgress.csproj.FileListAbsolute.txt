@@ -1,4 +1,0 @@
-E:\Programmation\Git-Hub\AsyncProgress\obj\Release\netstandard2.1\AsyncProgress.csprojAssemblyReference.cache
-E:\Programmation\Git-Hub\AsyncProgress\obj\Release\netstandard2.1\AsyncProgress.AssemblyInfoInputs.cache
-E:\Programmation\Git-Hub\AsyncProgress\obj\Release\netstandard2.1\AsyncProgress.AssemblyInfo.cs
-E:\Programmation\Git-Hub\AsyncProgress\obj\Release\netstandard2.1\AsyncProgress.csproj.CoreCompileInputs.cache

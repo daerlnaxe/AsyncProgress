@@ -26,5 +26,11 @@ namespace AsyncProgress.Cont
         {
             CancelFlag = cancelFlag;
         }
+
+        public StateArg(string message, int level, bool cancelFlag = false, bool eol = false):base(message, eol)
+        {
+            CancelFlag = cancelFlag;
+            Level = level;
+        }
     }
 }

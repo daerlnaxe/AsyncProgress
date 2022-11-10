@@ -9,6 +9,7 @@ namespace AsyncProgress.Cont
     {
         public string Message { get; set; }
         public bool EndOfLine { get; set; } = true;
+        public int Level { get; set; }
 
         public MessageArg(string m)
         {
@@ -19,6 +20,12 @@ namespace AsyncProgress.Cont
         {
             Message = m;
             EndOfLine = eol;
+        }
+
+        public MessageArg(string m, int lvl)
+        {
+            Message = m;
+            Level = lvl;
         }
 
     }
